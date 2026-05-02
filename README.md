@@ -18,10 +18,11 @@ A Python-based automation system that processes incoming emails and performs int
   
 ## ▶️ Demo Video
 
-👉 Watch Demo
+👉 [Watch Demo](video.mp4)
 
 ## 📸 Screenshots
-
+[Picture1](images1.png)
+[picture2](images2.png)
 
 ## 🔌 System Architecture
 - Gmail API fetches incoming emails
