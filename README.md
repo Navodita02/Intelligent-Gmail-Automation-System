@@ -18,8 +18,8 @@ A Python-based automation system that processes incoming emails and performs int
   
 ## ▶️ Demo Video
 
-👉 [Watch Demo](video.mp4)
-
+👉 [Demo](video.mp4)
+  [demo 2](video2.mp4)
 ## 📸 Screenshots
 [Picture1](images1.png)
 [picture2](images2.png)
@@ -59,7 +59,8 @@ A Python-based automation system that processes incoming emails and performs int
                                gmail-automation-system/
                                │── src/            # Python scripts
                                │── workflows/      # n8n workflow files
-                               │── images/         # Screenshots
+                               │── video /         # video1 and video2
+                               │── images/         # image1 and image 2
                                │── README.md
 
 📫 Author
